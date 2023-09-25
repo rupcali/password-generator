@@ -3,6 +3,6 @@ A simple password manager application built using Python and Tkinter. This appli
 # Features
 Generate strong and random passwords.
 Save website URLs, email/usernames, and passwords.
-Retrieve stored passwords.
+Search for websites and retrieve stored passwords.
 # Disclaimer
 This password manager is a simple educational project. It is not recommended for production use. Always use a reputable, secure password manager for sensitive information.
